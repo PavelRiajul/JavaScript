@@ -1,4 +1,4 @@
-var x = "riajul islam";
-var y = "fahim";
-var z = x+y;
-console.log(z+10);
+didj idwjiwnwdlw wo wpwwwwwwwww
+w9uppej
+ historypiwn
+ p
