@@ -1,4 +1,4 @@
-var x = 10;
-var y = 30;
-var z = x+y;
-console.log('z');
+var $name = 'tanirul milltat kamill madrasah'
+console.log($name)
+var _age = 21
+console.log(_age)
