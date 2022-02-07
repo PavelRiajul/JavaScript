@@ -1,2 +1,4 @@
-var name = 'riajul islam pavel'
-console.log(name + 'tamirul millat kamil madrasah')
+var x = 20;
+var y = 30;
+var z = x+y
+console.log(z)
