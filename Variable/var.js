@@ -1,4 +1,6 @@
-var x = 20;
-var y = 30;
-var z = x+y
-console.log(z)
+var name = ('riajul islam');
+var age = ('23');
+console.log(name +'knows javascript');
+console.log('his age only'+ age);
+console.log(name +'is creating a javascript course for all');
+console.log('but his age only' +age)
