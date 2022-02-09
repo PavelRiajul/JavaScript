@@ -22,11 +22,13 @@ x *= y;
 console.log(x)
 
 x /= y
-console.log(x)*/
+console.log(x)
 
 
 var a = 19
 var b = 5
 a %= b
-console.log(a)
+console.log(a)*/
+
+
 
