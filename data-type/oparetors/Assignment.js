@@ -9,7 +9,7 @@ console.log(x)
 var p = 100
 var b = 200
 p += b
-console.log(b)*/
+console.log(b)
 var x = 10
 var y = 50
 x += y
@@ -22,5 +22,11 @@ x *= y;
 console.log(x)
 
 x /= y
-console.log(x)
+console.log(x)*/
+
+
+var a = 19
+var b = 5
+a %= b
+console.log(a)
 
