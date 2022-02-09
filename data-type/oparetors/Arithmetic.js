@@ -16,4 +16,6 @@ console.log(a%b)*/
  console.log(a)
 
  //......dicrement oparetor....
- 
+ var b = 50
+ console.log(b--)
+ console.log(b)
