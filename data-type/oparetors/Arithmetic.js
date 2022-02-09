@@ -8,7 +8,7 @@ console.log(a/b)
 //........Mudolus...
 var  a = 23
 var b = 4
-console.log(a%b)*/
+console.log(a%b)
 
 //....Incremental oparetor...
  var a = 15
@@ -18,4 +18,6 @@ console.log(a%b)*/
  //......dicrement oparetor....
  var b = 50
  console.log(b--)
- console.log(b)
+ console.log(b)*/
+
+ 
