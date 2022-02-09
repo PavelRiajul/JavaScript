@@ -5,6 +5,9 @@ var name = +'riajul islam'
 console.log(typeof name)
 //...number to string convert,,,
 var age = 20
-console.log(typeof (age + ''))*/
+console.log(typeof (age + ''))
 var complex = 20 + 40 + 70 + 100 + 'riajul islam' + 10
-console.log(complex)
+console.log(complex)*/
+
+var age = 20
+console.log(typeof (age + ''))
