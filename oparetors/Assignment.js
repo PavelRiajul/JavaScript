@@ -1,5 +1,10 @@
-var x = 54
-var y = 10
+var a = 53
+var b = 10
 
-x %= y
-console.log(x)
+
+//a *= b
+console.log(a)
+//a /= b 
+console.log(a)
+a %= b
+console.log(a)
