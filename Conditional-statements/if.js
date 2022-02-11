@@ -9,8 +9,11 @@ if(age >= 20){
     console.log('tamirul millat kamill madrasah')
 
 }*/
-var a = 40
-var b = 20
-if(a > b){
-    console.log(a + 'is gretarthen' + b)
-}
+
+    var n= 5
+    if (n + 3 == 8){
+        console.log('riajul islam')
+    }
+
+
+
