@@ -15,6 +15,9 @@ if(age >= 20){
     if(10 + 20 == 30){
         console.log('Riajul islam pavel' +'i am 20 years old')
     }
+    if(20 - 10 == 10){
+        console.log('tamirul millat kamill madrasah')
+    }
 
 
 
