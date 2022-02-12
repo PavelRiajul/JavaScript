@@ -10,9 +10,10 @@ if(age >= 20){
 
 }*/
 
-    var n= 5
-    if (n + 3 == 8){
-        console.log('riajul islam')
+    var n = 10
+    var n = 20
+    if(10 + 20 == 30){
+        console.log('Riajul islam pavel' +'i am 20 years old')
     }
 
 
