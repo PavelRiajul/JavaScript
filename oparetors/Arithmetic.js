@@ -14,3 +14,7 @@ console.log(b)*/
 var x = 100
 var y = 300
 console.log(x + y)
+console.log(x - y)
+console.log(y * x)
+console.log(y / x)
+console.log(y % x)
