@@ -4,8 +4,16 @@ var c = 30
 var d = 20
 console.log((a > b) && (c > d))
 console.log((a > b) || (c > d))
-console.log(!a < b)*/
+console.log(!a < b)
 var  a = 100
 var b;
 (a == 100)? b = 'true' :b = 'false'
-console.log(b)
+console.log(b)*/
+var a = 20
+var b = 10
+var x = 40
+var z = 35
+console.log(a > b) && (x > z)
+console.log(b > a) || (z > x)
+console.log (! a < b)
+
