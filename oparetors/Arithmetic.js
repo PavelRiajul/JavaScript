@@ -10,11 +10,17 @@ var b = 25
 console.log(a++)
 console.log(a)
 console.log(b--)
-console.log(b)*/
-var x = 100
-var y = 300
+console.log(b)
+var x = 41
+var y = 20
 console.log(x + y)
 console.log(x - y)
-console.log(y * x)
-console.log(y / x)
-console.log(y % x)
+console.log(x * y)
+console.log(x / y)
+console.log(x % y)*/
+var a = 20
+var y = 30
+console.log(a++)
+console.log(a)
+console.log(--y)
+
