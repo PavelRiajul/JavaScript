@@ -9,4 +9,6 @@ var name_age = 20 + 30 + 'riajul islam' + 40;
 console.log(name_age)
 console.log("Hello")
 var $age = 29
+var b = 30
 console.log($age)
+console.log(b)
