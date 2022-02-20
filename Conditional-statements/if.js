@@ -17,7 +17,7 @@ if(age >= 20){
     }
     if(20 - 10 == 10){
         console.log('tamirul millat kamill madrasah')
-    }*/
+    }
     if(18 > 10){
         console.log('Riajul islam pavel')
     }
@@ -40,7 +40,20 @@ if(age >= 20){
     var my_age = 30
     if(my_age >20 && my_age<50){
         console.log('tamirul millat kamill madrasah')
+    }*/
+    var Number = 'pavel'
+    if(Number == 'pavel'){
+        console.log('Riajul islam pavel')
     }
+    var Name = 'riajul'
+    if(Name == 'riajul'){
+        console.log('Good morning' +'after noon')
+    }
+    var my_age = 20
+    if(my_age >19 && my_age < 50){
+        console.log('hello how are you i am fine and you. My  name is riajul islam pavel ')
+    }
+
 
 
 
