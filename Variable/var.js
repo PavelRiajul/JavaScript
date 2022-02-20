@@ -8,3 +8,5 @@ console.log('My collage name is' + $collage)*/
 var name_age = 20 + 30 + 'riajul islam' + 40;
 console.log(name_age)
 console.log("Hello")
+var $age = 29
+console.log($age)
