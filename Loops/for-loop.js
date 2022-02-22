@@ -1,3 +1,3 @@
-for(var a =0; a < 1000; a+=100){
-    console.log( (a + 10) +'riajul islam pavel')
+for(var a = 10; a <200 ; a+=100){
+    console.log( (a + 1) +'riajul islam pavel')
 }
