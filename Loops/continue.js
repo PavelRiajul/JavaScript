@@ -4,9 +4,11 @@ if(i == 4 || i == 8 || i == 5){
 }else{
     console.log(i)
 }*/
-for( var a = 5; a < 10; a++)
-if(a == 9 || a == 6 ){
+for(var a = 1; a < 10; a++)
+if( a == 5 || a == 7){
     continue
 }else{
-    console.log(a)
+    console.log(
+        a
+    )
 }

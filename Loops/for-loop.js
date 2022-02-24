@@ -51,3 +51,6 @@ for( var a = 1; a < 10; a++){
     }
 }
 console.log('result =' +sum)
+for(var a = 10; a < 200; a += 100){
+    console.log( (a+1) +'riajul islam pavel')
+}
