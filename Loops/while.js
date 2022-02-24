@@ -3,7 +3,7 @@ while(a < 10){
     console.log( 'riajul islam')
     a++
 }
-console.log('out of the loop')*/
+console.log('out of the loop')
 //winner
 var running = true
 while(running){
@@ -15,4 +15,9 @@ while(running){
     else {
         console.log('you have lost')
     }
-}
+}*/
+var a = 100
+while( a < 20 ){
+    console.log('riajul islam pavel')
+    a++
+}console.log('out of the loop')

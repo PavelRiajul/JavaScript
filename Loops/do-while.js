@@ -1,6 +1,9 @@
-var running = false
+/*var name = false
 do{
-    console.log('i am running')
-
-    
-}while(running)
+    console.log('running')
+}while(name)*/
+var a = 1;
+do{
+    console.log( a'riajul islam pabel')
+    a++
+}while(a <= 10)
