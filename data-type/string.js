@@ -13,5 +13,13 @@ console.log(complex)*/
 var name = 30
 console.log(typeof age)
 console.log(typeof(age + ''))*/
-var age = '20'
-console.log(typeof age)
+var numstr = 30
+var strnum = +'Riajul islam pavel'
+console.log(typeof (numstr + ''))
+console.log(typeof strnum)
+var complex = 10 + 20 + 100 + 'string' + 200 + 100
+console.log(complex)
+
+
+
+

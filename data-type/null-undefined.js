@@ -3,6 +3,6 @@ var xyz = null
 console.log(asd)
 console.log(xyz)*/
 var pavel
-var xkl = null
+var asb = null
 console.log(pavel)
-console.log(xkl)
+console.log(asb)
