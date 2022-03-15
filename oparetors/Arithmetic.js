@@ -18,13 +18,11 @@ console.log(x - y)
 console.log(x * y)
 console.log(x / y)
 console.log(x % y)*/
-var a = 8
-var b = 4
-console.log(a + b)
-console.log(b - a)
-console.log(b * a)
+var a = 10
+var b = 6
+console.log(a +b)
+console.log(a -b)
+console.log(a *b)
+console.log(a /b)
 console.log(a % b)
-console.log(a / b)
-console.log(++a)
-console.log(--b)
 

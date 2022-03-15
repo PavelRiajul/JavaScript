@@ -2,7 +2,7 @@
 var xyz = null
 console.log(asd)
 console.log(xyz)*/
-var pavel
-var asb = null
-console.log(pavel)
-console.log(asb)
+var number
+var x = null
+console.log(number)
+console.log(x)
