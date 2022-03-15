@@ -11,14 +11,12 @@ var nn = Number(55.99)
 console.log(nn)
 console.log(Number.parseInt(nn))
 console.log(Number.MAX_VALUE)*/
-var i = 33
-var f = 44.4
-var nn = 43.9
+var i = 20;
+var f = 44.4;
+var nn = 30.44
 console.log(nn)
 console.log(Number.parseInt(nn))
-var num1 = -4/0;
-var num2 = 'abc'/9;
-console.log(num1)
-console.log(num2)
-console.log(Number.MIN_SAFE_INTEGER)
 console.log(Number.MAX_SAFE_INTEGER)
+console.log(Number.MIN_SAFE_INTEGER)
+console.log(-3/0)
+console.log('abc'*3)
