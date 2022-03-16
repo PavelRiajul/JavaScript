@@ -20,17 +20,13 @@ if(num > 1){
         console.log('good night')
     }
 }*/
-var age = 40
-if(age > 30){
-    if(age > 50){
-        console.log('riajul islam pavel')
-    }
-    else if(age > 70){
-        console.log(
-            'sirajul islam parvez'
-        )
-    }
-    else{
-        console.log('imadul islam')
-    }
+var date = 'friday'
+if (date === 'suterday'){
+    console.log('it is closed today')
+}
+else if (date ==='friday'){
+    console.log('you are allowed')
+}
+else {
+    console.log('i am fine')
 }
