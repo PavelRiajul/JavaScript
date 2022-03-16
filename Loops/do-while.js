@@ -1,9 +1,4 @@
-/*var name = false
+var pavel = false
 do{
-    console.log('running')
-}while(name)*/
-var a = 1;
-do{
-    console.log( a'riajul islam pabel')
-    a++
-}while(a <= 10)
+    console.log('riajul ilsam pab=vel')
+}while (pavel)

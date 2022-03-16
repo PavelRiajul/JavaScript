@@ -42,9 +42,17 @@ for(var i = 1; i < 20; i++){
     if(i % 2 == 1){
         console.log(i)
     }
-}*/
-for (var a = 1; a <= 100; a++){
-    if (a % 2 ==0){
-        console.log(a)
-    }
 }
+for (var a = 1; a <= 100; a++){
+    if (a % 2 == 0)
+        console.log(a)
+}*/
+var sum = 1
+for (var a = 1; a <= 10; a++){
+    console.log(sum + '+' + a + '=' + (sum + a))
+    sum += a
+}
+
+
+
+

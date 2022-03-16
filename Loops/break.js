@@ -19,11 +19,11 @@ for(a = 1; a < 10; a++)
         console.log(a)
     }*/
   
-    for(var a = 1; a < 10; a++){
-        if(a == 5){
-            break
-        }
-        console.log(a + 'riajul islam pavel')
+for (var i = 0; i < 11; i++){
+    if (i == 7){
+        break;
     }
+    console.log(i)
+}
    
 

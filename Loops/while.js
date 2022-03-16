@@ -16,8 +16,9 @@ while(running){
         console.log('you have lost')
     }
 }*/
-var a = 100
-while( a < 20 ){
-    console.log('riajul islam pavel')
+var a = 10
+while (a < 7){
+    console.log('Riajul islam pavel')
     a++
-}console.log('out of the loop')
+}
+console.log('Out of the loop')

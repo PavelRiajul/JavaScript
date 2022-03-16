@@ -19,10 +19,10 @@ for(var a = 1; a < 10; a++){
     }
     console.log(a + 'riajul islam')
 }*/
-for( var a = 1; a < 10; a++){
-    if(a == 4 || a == 5){
-        console.log(a + 'is skip')
-        continue
-    }console.log( 'it is now' + a)
-}
 
+for (var a = 0; a< 10; a++){
+    if (a == 2 || a== 3){
+        console.log(a + 'is skipeed')
+    }
+    console.log(a + 'riajul islam')
+}
