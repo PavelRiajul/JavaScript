@@ -1,12 +1,13 @@
-/*var name = [1,2,3,4,5]
-name[5] = 10
-name[2] = 30
-console.log(name)
-console.log(0)
-console.log(name[5])
-console.log(name[7])
-console.log(name['length'])*/
-var name = ['Riajul','islam','pavel','fahim']
-for(var i = 0; i < name.length; i++){
-    console.log('Name:' + name[i])
+var arr = [2, 34, 10, 24, 89]
+var find = 34
+var isFound =false
+for (var a = 0; a < arr.length; a++){
+    if (arr[a] == find){
+        console.log('data found' +a)
+        isFound =true
+        break;
+    }
+}
+if (!isFound){
+    console.log('data not found')
 }
