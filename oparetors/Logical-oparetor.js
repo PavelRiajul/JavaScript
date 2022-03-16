@@ -9,11 +9,12 @@ var  a = 100
 var b;
 (a == 100)? b = 'true' :b = 'false'
 console.log(b)*/
-var a = 20
+var a = 11
 var b = 10
-var x = 40
-var z = 35
-console.log(a > b) && (x > z)
-console.log(b > a) || (z > x)
-console.log (! a < b)
+var c = 30
+ var d = 40
+console.log(a > b) && (c > d)
+console.log(a > b) || (c > d)
+console.log(! a > b)
+
 
