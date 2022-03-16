@@ -1,28 +1,25 @@
-/*var a = 22
-var b = 11
-if(a / b == 2){
-    console.log('good morning .good after non.')
+var age = 20
+if (age < 14){
+    console.log('you are allowed')
 }
-else{
-    console.log('good evening. good night. good day')
+else {
+    console.log('no you are not allowed')
 }
-if(a % b == 2){
-    console.log(' hi riajul islam')
+if (age > 12 && age > 10){
+    console.log('Riajul islam pavel')
 }
-else{
-    console.log('Hi imadul islam')
-}*/
-var x = 55
-var z = 10
-if(x / z === 5){
-    console.log('tamirul millat kamill madrasah')
+else {
+    console.log('Tamirul millat kamill madrasah')
 }
-else{
-    console.log('medda islamia alim madrasah')
+if (age >= 10){
+    console.log('you are allowed')
 }
-if(x % z === 5){
-    console.log('tanzimul islamia kedete madrasah')
+else {
+    console.log('console')
 }
-else{
-    console.log('my name is pavel')
+if (! age < 8){
+    console.log('fahim')
+}
+else {
+    console.log('pavel')
 }

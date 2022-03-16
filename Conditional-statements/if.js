@@ -41,19 +41,29 @@ if(age >= 20){
     if(my_age >20 && my_age<50){
         console.log('tamirul millat kamill madrasah')
     }*/
-    var Number = 'pavel'
-    if(Number == 'pavel'){
-        console.log('Riajul islam pavel')
-    }
-    var Name = 'riajul'
-    if(Name == 'riajul'){
-        console.log('Good morning' +'after noon')
-    }
-    var my_age = 20
-    if(my_age >19 && my_age < 50){
-        console.log('hello how are you i am fine and you. My  name is riajul islam pavel ')
-    }
 
+var a = 'riajul';
+if (a === 'riajul'){
+    console.log('You are allowed')
+    var age = 20
+    if (age > 14){
+        console.log('yor are allowed')
+    }
+}
+var number = 20
+if (number === '20'){
+    console.log('Riajul islam pavel')
+}
+var  myAge = 20
+if (myAge > 15 && myAge > 19){
+    console.log('you are a young person')
+}
+if (myAge > 16 || myAge < 12){
+    console.log('tamirul millat kamill madrash')
+}
+if (! myAge > 21){
+    console.log('you are win')
+}
 
 
 
