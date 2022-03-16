@@ -43,14 +43,8 @@ for(var i = 1; i < 20; i++){
         console.log(i)
     }
 }*/
-var sum = 1
-for( var a = 1; a < 10; a++){
-    if(a % 2 == 0){
-        console.log(sum + '+' + a + '=' + (sum +a))
-        sum += a
+for (var a = 1; a <= 100; a++){
+    if (a % 2 ==0){
+        console.log(a)
     }
-}
-console.log('result =' +sum)
-for(var a = 10; a < 200; a += 100){
-    console.log( (a+1) +'riajul islam pavel')
 }
