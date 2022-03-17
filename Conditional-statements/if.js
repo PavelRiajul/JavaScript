@@ -42,30 +42,6 @@ if(age >= 20){
         console.log('tamirul millat kamill madrasah')
     }*/
 
-var a = 'riajul';
-if (a === 'riajul'){
-    console.log('You are allowed')
-    var age = 20
-    if (age > 14){
-        console.log('yor are allowed')
-    }
-}
-var number = 20
-if (number === '20'){
+if (10 > 50){
     console.log('Riajul islam pavel')
 }
-var  myAge = 20
-if (myAge > 15 && myAge > 19){
-    console.log('you are a young person')
-}
-if (myAge > 16 || myAge < 12){
-    console.log('tamirul millat kamill madrash')
-}
-if (! myAge > 21){
-    console.log('you are win')
-}
-
-
-
-
-
