@@ -1,16 +1,10 @@
-var student ={
-    math:59,
-    chemistry:70,
-    physices:90,
-    higherMath:58
+var point = {
+    x:20,
+    y:100
 }
-student.name = 'riajul islam'
-console.log(student)
-console.log(student.chemistry)
-console.log(student["math"])
-console.log(student.math + student.chemistry)
-
-
-
-
-
+point.x = 249
+point.z = 300
+console.log(point)
+var prop = 'z'
+point[prop] = 500
+console.log(point)
