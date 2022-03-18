@@ -1,8 +1,11 @@
-function add(a , b) {
-    var sum = a + b
+var arr1 = [1,2,3]
+var arr2 = [5,7,9]
+var arr3 = [9,6,4]
+
+function add(a, b, c) {
+    var sum = a + b + c
     return sum
 }
-console.log(add(2,2))
-console.log(add(4,4))
-console.log(add(100, 200))
-console.log(add(10,5))
+console.log(add(1,2,3,))
+console.log(add(5,7,9))
+console.log(add(9,6,4))
