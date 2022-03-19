@@ -9,8 +9,24 @@ var sum = 0
     console.log(sum)
 }
 sum(arr1)
-sum(arr2)*/
+sum(arr2)
+
+
 function firstNmae (name, age) {
     console.log('My Nmae is' + name + 'and I am' + age +'years old')
 }
-firstNmae('Riajul islam pavel',20)
+firstNmae('Riajul islam pavel',20)*/
+
+function myNmae(name,call){
+    var myage = 20
+    call (myage)
+    console.log('is it interesting' + name)
+}
+function  hello(age){
+    console.log('i am passed through argument' + age)
+}
+myNmae('Riajul islam pavel',hello)
+
+
+
+
