@@ -11,6 +11,11 @@ for (var a = 0; a < arr.length; a++){
 if (!isFound){
     console.log('data not found')
 }*/
-var arr = [1,2,3,4,5]
-console.log(arr)
-console.log(arr[2])
+var number = [12,34,54,23,67]
+var sum = 0
+for (var i = 0; i < number.length; i++){
+sum += number[i]
+    console.log(sum + '+' + number[i] + '=' + (sum + number[i]))
+}
+
+

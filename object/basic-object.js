@@ -11,8 +11,15 @@ console.log(point)
 delete point.x
 console.log(point)*/
 var obj = {
-    normal:'Riajul islam'
-    name:['rahim','Karim','Rofiq']
-    age:[12,23,34,556]
+    name:'Riajul islam pavel',
+    Roll:166,
+    sub:'computer science',
+    country:'Bangladesh'
+
 }
+obj.science = 'chemistry'
+obj.Roll =200
 console.log(obj)
+console.log(obj.name)
+
+
