@@ -20,6 +20,7 @@ var obj = {
 obj.science = 'chemistry'
 obj.Roll =200
 console.log(obj)
+data obj. 200
 console.log(obj.name)
 
 
