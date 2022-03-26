@@ -23,11 +23,25 @@ function addName(a, b) {
 }
 addName(10,5)*/
 
-function  convert (minutes){
-   var sum = minutes * 60
-   return sum
+//anatovori
+
+ /*function  anatoVori (ana){
+   var vori = ana / 16
+   return vori
 }
-console.log(convert(5)
+console.log(anatoVori(64))*/
+function pandacost(singara,pori,somosa) {
+   var singaraprice = 7
+   var poriprice = 10
+   var somosaprice = 20
+   var singaraquantity = singara * singaraprice
+   var poriquantity = pori * poriprice
+   var somosaquantity = somosa * somosaprice
+   var totalprice = singaraquantity +poriquantity + somosaquantity
+   return totalprice
+}
+console.log(pandacost(1,0,1))
+
 
 
 
