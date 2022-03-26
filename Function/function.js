@@ -15,11 +15,28 @@ sum(arr2)
 function firstNmae (name, age) {
     console.log('My Nmae is' + name + 'and I am' + age +'years old')
 }
-firstNmae('Riajul islam pavel',20)*/
-function welcomeMsg(name) {
-    console.log('welcome Mr.'+ name)
+firstNmae('Riajul islam pavel',20)
+function addName(a, b) {
+    var sum = a + b;
+
+    console.log('sum of' + a + 'and' + b + 'is:' + sum)
 }
-welcomeMsg('Riajul islam pavel')
+addName(10,5)*/
+
+
+function rrr(side1,side2){
+   var sum = side1 + side2 -1
+   return sum
+}
+console.log(rrr(10,10))
+
+
+
+
+
+
+
+
 
 
 

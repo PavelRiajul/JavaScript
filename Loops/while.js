@@ -17,8 +17,7 @@ while(running){
     }
 }*/
 var a = 0
-while (a < 10){
-    console.log(a)
+while (a < 15){
+    console.log( a + 'Riajul islam pavel')
     a++
 }
-console.log('out of value')
