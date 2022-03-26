@@ -23,12 +23,14 @@ function addName(a, b) {
 }
 addName(10,5)*/
 
-
-function rrr(side1,side2){
-   var sum = side1 + side2 -1
+function  convert (minutes){
+   var sum = minutes * 60
    return sum
 }
-console.log(rrr(10,10))
+console.log(convert(5)
+
+
+
 
 
 
