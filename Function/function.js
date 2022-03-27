@@ -30,7 +30,8 @@ addName(10,5)*/
    return vori
 }
 console.log(anatoVori(64))*/
-function pandacost(singara,pori,somosa) {
+//pori/singara/somosa
+/*function pandacost(singara,pori,somosa) {
    var singaraprice = 7
    var poriprice = 10
    var somosaprice = 20
@@ -40,15 +41,13 @@ function pandacost(singara,pori,somosa) {
    var totalprice = singaraquantity +poriquantity + somosaquantity
    return totalprice
 }
-console.log(pandacost(1,0,1))
+console.log(pandacost(1,0,1))*/
 
-
-
-
-
-
-
-
+function  call (a,b) {
+    var sum = a + b
+    return sum
+}
+console.log(call(10,10))
 
 
 
