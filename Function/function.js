@@ -48,6 +48,15 @@ function  call (a,b) {
     return sum
 }
 console.log(call(10,10))
+function  ana (apple,komola){
+    var appleprice = 10
+    var komolaprice = 20
+    var price = apple * appleprice
+    var ppp = komola * komolaprice
+    var totalprice = price + ppp
+    return totalprice
+}
+console.log(ana(1,1))
 
 
 
