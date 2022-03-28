@@ -47,11 +47,11 @@ for (var a = 1; a <= 100; a++){
     if (a % 2 == 0)
         console.log(a)
 }*/
-var sum = 1
-for (var a = 1; a <= 10; a++){
-    console.log(sum + '+' + a + '=' + (sum + a))
-    sum += a
-}
+var a = 10
+var b = 20
+var d = a +b
+console.log(d)
+
 
 
 
