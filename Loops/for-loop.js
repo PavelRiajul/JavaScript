@@ -52,7 +52,9 @@ var b = 20
 var d = a +b
 console.log(d)
 
-
+var x = 10
+var y =200
+console.log(x + y)
 
 
 
