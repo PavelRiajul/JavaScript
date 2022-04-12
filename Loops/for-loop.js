@@ -47,13 +47,10 @@ for (var a = 1; a <= 100; a++){
     if (a % 2 == 0)
         console.log(a)
 }*/
-var a = 10
-var b = 20
-var d = a +b
-console.log(d)
-
-var x = 10
-var y =200
+var a = 20
+var b = 40
+var c = a + b
+console.log(c)
 
 
 
