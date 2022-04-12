@@ -51,6 +51,11 @@ var a = 20
 var b = 40
 var c = a + b
 console.log(c)
+var x = 40
+var y = 30
+var z = x - y
+console.log(z)
+
 
 
 
