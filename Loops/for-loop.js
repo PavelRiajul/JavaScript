@@ -58,6 +58,9 @@ console.log(z)
 var taxt = 500
 var text2 = 20
 console.log(taxt * text2)
+var calculate = 300
+var cell = 30
+console.log(calculate + cell)
 
 
 
