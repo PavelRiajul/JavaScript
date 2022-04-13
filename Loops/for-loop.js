@@ -55,6 +55,9 @@ var x = 40
 var y = 30
 var z = x - y
 console.log(z)
+var taxt = 500
+var text2 = 20
+console.log(taxt * text2)
 
 
 
