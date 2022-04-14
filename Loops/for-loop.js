@@ -64,6 +64,9 @@ console.log(calculate + cell)
 var i =  100
 var a = 200
 console.log(i + a)
+var pavel = 500
+var rasel = 200
+console.log(pavel - rasel)
 
 
 
