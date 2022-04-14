@@ -61,6 +61,9 @@ console.log(taxt * text2)
 var calculate = 300
 var cell = 30
 console.log(calculate + cell)
+var i =  100
+var a = 200
+console.log(i + a)
 
 
 
