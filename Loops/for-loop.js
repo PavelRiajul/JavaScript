@@ -47,26 +47,9 @@ for (var a = 1; a <= 100; a++){
     if (a % 2 == 0)
         console.log(a)
 }*/
-var a = 20
+var a = 30
 var b = 40
-var c = a + b
-console.log(c)
-var x = 40
-var y = 30
-var z = x - y
-console.log(z)
-var taxt = 500
-var text2 = 20
-console.log(taxt * text2)
-var calculate = 300
-var cell = 30
-console.log(calculate + cell)
-var i =  100
-var a = 200
-console.log(i + a)
-var pavel = 500
-var rasel = 200
-console.log(pavel - rasel)
+console.log(a + b)
 
 
 
