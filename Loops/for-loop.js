@@ -50,6 +50,9 @@ for (var a = 1; a <= 100; a++){
 var a = 30
 var b = 40
 console.log(a + b)
+var x = 500
+var z = 300
+ console.log(x - z)
 
 
 
