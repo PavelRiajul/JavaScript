@@ -56,6 +56,9 @@ var z = 300
 var g = 1000
 var j = 899
 console.log(g + j)
+var l = 200
+var r = 300
+console.log(l + r)
 
 
 
