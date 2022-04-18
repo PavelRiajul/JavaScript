@@ -53,12 +53,9 @@ console.log(a + b)
 var x = 500
 var z = 300
  console.log(x - z)
-var g = 1000
-var j = 899
-console.log(g + j)
-var l = 200
-var r = 300
-console.log(l + r)
+var f = 400
+var e = 500
+console.log(f + e)
 
 
 
