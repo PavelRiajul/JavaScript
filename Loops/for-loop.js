@@ -47,15 +47,9 @@ for (var a = 1; a <= 100; a++){
     if (a % 2 == 0)
         console.log(a)
 }*/
-var a = 30
-var b = 40
-console.log(a + b)
-var x = 500
-var z = 300
- console.log(x - z)
-var f = 400
-var e = 500
-console.log(f + e)
+var a = 499
+var d = 400
+console.log(a / d)
 
 
 
