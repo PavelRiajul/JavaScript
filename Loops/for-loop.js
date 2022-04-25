@@ -59,6 +59,12 @@ console.log(a / d)
 var a = 499
 var d = 400
 console.log(a / d)
+var a = 499
+var d = 400
+console.log(a / d)
+var a = 499
+var d = 400
+console.log(a / d)
 
 
 
