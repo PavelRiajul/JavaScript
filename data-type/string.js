@@ -12,7 +12,7 @@ console.log(complex)*/
 /*var age = +'20'
 var name = 30
 console.log(typeof age)
-console.log(typeof(age + ''))*/
+console.log(typeof(age + ''))
 var name = "good Morning"
 var age = 20
 console.log(typeof name)
@@ -22,6 +22,12 @@ var num = 21
 var complax = 100 + 200 + 40 + ' Riajul islam pavel' + 50 + 10
 console.log(typeof str)
 console.log(typeof (num + ''))
-console.log( complax)
+console.log( complax)*/
+var name = +'imadul islam'
+console.log(typeof name)
+var age = 20
+console.log(typeof (age +''))
+
+
 
 

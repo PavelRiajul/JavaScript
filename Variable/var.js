@@ -11,3 +11,7 @@ console.log('My sister name is'+'' +' '+ sisterName)
 console.log('My brothers name is' + brothersName)
 console.log('My fother name is ' + myFotherName)
 console.log('My mother name is ' + myMotherName)
+var fahim = 'imadulislam'
+var fhm = fahim
+var fm = fhm
+console.log(fm)
