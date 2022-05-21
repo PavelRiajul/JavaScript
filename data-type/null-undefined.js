@@ -2,12 +2,9 @@
 var xyz = null
 console.log(asd)
 console.log(xyz)*/
-var age;
-var name = null
-console.log(name)
-console.log(age)
-var complex = 200 + 200 + 10 + 'Riajul isla pavel' + 10 + 30
+var myName;
+var number = null
+var complex = 100 + 200 + 'Total cost amount' + 20 + 10
+console.log(myName)
+console.log(number)
 console.log(complex)
-var name = 'Riajul islam'
-var age = name
-console.log(age)

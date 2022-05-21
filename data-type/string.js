@@ -23,10 +23,10 @@ var complax = 100 + 200 + 40 + ' Riajul islam pavel' + 50 + 10
 console.log(typeof str)
 console.log(typeof (num + ''))
 console.log( complax)*/
-var name = +'riajul islam pavel'
-console.log(typeof name)
+var name = +'Riajul islam '
 var age = 20
-console.log(typeof(age + ''))
+console.log(typeof name)
+console.log(typeof (age + ''))
 
 
 

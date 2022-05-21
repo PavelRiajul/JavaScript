@@ -12,7 +12,7 @@ console.log(nn)
 console.log(Number.parseInt(nn))
 console.log(Number.MAX_VALUE)*/
 var number = 20
-var b = 20.20
-console.log(parseInt(b))
+var number1 = parseInt('22')
+console.log(number1)
 
 
