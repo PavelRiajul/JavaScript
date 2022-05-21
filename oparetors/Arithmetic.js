@@ -29,3 +29,5 @@ var x = 52
 z = 10
 console.log(x / z)
 console.log(x % z)
+console.log(++z)
+console.log(--x)
