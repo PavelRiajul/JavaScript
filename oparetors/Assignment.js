@@ -9,15 +9,23 @@ console.log(a)
 a %= b
 console.log(a)*/
 
-var x = 11
-var y = 10
-x -= y
+var a  = 250
+var b = 100
+a -= b
+a += b
+console.log(a)
+var x = 100
+z = 10
+x *= z
 console.log(x)
-x += y
-console.log(x)
-x *= y
-console.log(x)
-x /= y
-console.log(x)
-x %= y
-console.log(x)
+var h = 50
+n = 10
+h /= n
+console.log(h)
+var d = 100
+var o = 11
+d %= o
+console.log(d)
+
+
+
